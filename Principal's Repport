@@ -1,10 +1,10 @@
-# Principal's Report
+Principal's Report:
 
-## Executive Summary
+Executive Summary:
 
 The student performance dataset was analyzed to identify factors that influence academic achievement and to detect students at academic risk. The analysis showed that parental education level, test preparation, and gender have significant effects on student performance. Approximately 18.8% of students were identified as at-risk, indicating the need for targeted intervention programs.
 
-## Key Findings
+Key Findings:
 
 1. Students whose parents have higher education levels achieve better academic scores.
 
@@ -16,7 +16,7 @@ The student performance dataset was analyzed to identify factors that influence 
 
 5. Around 18.8% of students were identified as at-risk because they scored below 50 in at least one subject.
 
-## Recommendations
+Recommendations:
 
 1. Expand test preparation programs for all students, especially low-performing students.
 
@@ -24,6 +24,6 @@ The student performance dataset was analyzed to identify factors that influence 
 
 3. Increase parental involvement through workshops and communication programs to encourage academic support at home.
 
-## Conclusion
+Conclusion:
 
 The analysis indicates that educational support at home and participation in test preparation programs strongly influence student success. By focusing on at-risk students and expanding academic support initiatives, the school can improve overall performance and reduce failure risk in future academic years.
